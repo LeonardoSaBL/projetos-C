@@ -63,9 +63,9 @@ int main(){
     printf(" O Codigo é: %s \n", codigo1);
     printf(" A cidade é: %s \n", cidade1);
     printf(" A população é: %d \n", pop1);
-    printf(" A aréa é (em km²): %f \n", area1);
+    printf(" A aréa é : %f \n", area1);
     printf(" A Densidade da população é: %f \n", dens1);
-    printf(" O PIB é (Bilhoes de reais): %f \n", pib1);
+    printf(" O PIB é : %f \n", pib1);
     printf(" A quantidade de pontos turisticos é: %d \n", pontos1);
 
 
